@@ -105,3 +105,11 @@ export default App
 // npm create vite@latest
 // npm install
 // npm run dev
+
+
+
+// git init
+// uploaded code to github using desktop, added repo (the local folder)
+
+
+//npm install gh-pages --save-dev
