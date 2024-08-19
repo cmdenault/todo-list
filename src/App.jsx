@@ -108,8 +108,19 @@ export default App
 
 
 
-// git init
+///// steps to upload
+
 // uploaded code to github using desktop, added repo (the local folder)
 
-
 //npm install gh-pages --save-dev
+
+// add stuff to package.json
+    // the homepage, deploy, predeploy
+
+// save changes
+// git add .
+// git commit -m "setup gh-pages"
+// git push
+
+// npm run build
+// npm run deploy in terminal
